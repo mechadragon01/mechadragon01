@@ -20,12 +20,16 @@
 <img alt="Ruby" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"  style="padding-right:20px;"/>
 <img alt="Rails" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"  style="padding-right:20px;"/>
 
-<img alt="Express" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  style="padding-right:20px;"/>
+<picture >
+  <source media="(prefers-color-scheme: light)">
+  <img width="40px" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:20px;">
+</picture>
+
 <img alt="Redis" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"  style="padding-right:20px;"/>
 <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  style="padding-right:20px;"/>
 <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  style="padding-right:20px;"/>
 <img alt="Terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"  style="padding-right:20px;"/>
-<img alt="Railway" width="40px" src="./images/railway.svg"  style="padding-right:20px;"/>
+<img alt="Railway" width="40px" src="./images/railway.svg#gh-light-mode-only"  style="padding-right:20px;"/>
 <img alt="Google Cloud" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"  style="padding-right:20px;"/>
 </p>
 
