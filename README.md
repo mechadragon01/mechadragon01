@@ -21,7 +21,7 @@
 <img alt="Rails" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"  style="padding-right:20px;"/>
 
 <picture >
-  <source media="(prefers-color-scheme: light)">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img width="40px" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:20px;">
 </picture>
 
