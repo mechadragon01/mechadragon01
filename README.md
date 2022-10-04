@@ -13,8 +13,13 @@
 <img alt="Storybook" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" style="padding-right:20px;"/>
 <img alt="Nextjs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg#gh-light-mode-only"  style="padding-right:20px;"/>
 <img alt="Cypress" width="40px" src="./images/cypress-logo.svg"  style="padding-right:20px;"/>
+
 <img alt="Graphql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"  style="padding-right:20px;"/>
 <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  style="padding-right:20px;"/>
+
+<img alt="Ruby" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"  style="padding-right:20px;"/>
+<img alt="Rails" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"  style="padding-right:20px;"/>
+
 <img alt="Express" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  style="padding-right:20px;"/>
 <img alt="Redis" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"  style="padding-right:20px;"/>
 <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  style="padding-right:20px;"/>
