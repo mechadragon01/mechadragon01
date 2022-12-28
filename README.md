@@ -16,6 +16,7 @@
 
 <img alt="Graphql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"  style="padding-right:20px;"/>
 <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  style="padding-right:20px;"/>
+<img alt="Golang" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"  style="padding-right:20px;"/>
 
 <picture >
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
@@ -33,7 +34,6 @@
 ### In Progress:
 
 <p align="left">
-<img alt="Golang" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"  style="padding-right:20px;"/>
 <img alt="Prometheus" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"  style="padding-right:20px;"/>
 <img alt="Grafana" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"  style="padding-right:20px;"/>
 </p>
